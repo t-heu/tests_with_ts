@@ -1,0 +1,2 @@
+jest.config.js linguist-vendored
+tests/coverage/** linguist-vendored
